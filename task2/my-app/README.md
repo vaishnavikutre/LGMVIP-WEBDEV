@@ -1,34 +1,20 @@
-WEB DEVELOPMENT
+02 INTERMEDIATE LEVEL Task
 
-LGM VIRTUAL INTERNSHIP PROGRAM 2021
+Create a web application using create-react-app
 
-01 BEGINNER LEVEL TASK
+Create a User card grid layout having a navbar showing any brand name
 
-CREATE A SINGLE PAGE WEBSITE. This task is to determine your understanding of HTML, CSS and Javascript skills along.
+Add a button in the navbar saying 'Get Users', which makes an API call to get the user data
 
-Setup
+Use https://reqres.in/api/users?page=1 to get the data
 
-We believe in an agile work process and collaborate with each other to be on the same page of the development process we use :
+Show a loader while the API fetches the data.
 
-IDE: Microsoft Visual Code Studio
+Use custom CSS/SASS/styled-components.
 
-Working
+You can design your own UI for this, make it simple.
 
-You have to create a single page website
-
-Documentation Links :
-
-HTML -https://www.w3schools.com/html/
-
-CSS - https://www.w3schools.com/css/
-
-JAVASCRIPT - https://www.w3schools.com/js/
-
-Design Link :
-
-https://drive.google.com/file/d/155fTjPt_AvhNMfOGxpPORcZlPEBeNYWd/view?usp=sharing
-
-Watch Tutorial - https://tinyurl.com/LGMYOUTUBE
+Watch Tutorial - https://youtu.be/JXtnmgRDEPo
 
 
 
